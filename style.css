@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titulo {
+    text-align: center;
+    background-color: black;
+    color: gold;
+    font-size: 30px;
+    box-shadow: -1px -4px 20px 20px rgb(255, 196, 0);
+    height: 200px;
+    width: 750px;
+    position: relative;
+    top: 20px;
+
+}
+
+.titulo h1 {
+ position: relative;
+ top: -10px;
+}
+
+.titulo p {
+    position: relative;
+    top: -10px;
+}
+
+.suerte {
+    width: 500px;
+    height: 350px;
+    position: relative;
+    top: 300px;
+}
